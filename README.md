@@ -1,0 +1,1 @@
+issue-svgicons2svgfont-multiple-unicode
