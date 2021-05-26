@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node index.js"
+    "build": "node index.js",
+    "build:ttf": "svg2ttf out.svg out.ttf"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "svg2ttf": "^5.2.0",
     "svgicons2svgfont": "^10.0.2"
   }
 }
